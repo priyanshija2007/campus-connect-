@@ -1,0 +1,10 @@
+{
+  "name": "campus-connect-se-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CampusConnect UI templates and tests for Software Engineering lab.",
+  "scripts": {
+    "test": "node campus_connect_templates/tests/script.test.js",
+    "validate": "node campus_connect_templates/validate-files.js"
+  }
+}
